@@ -1,35 +1,34 @@
+<div align="center">
 
+  <h1>Hola, soy Santiago Alvarez 👋</h1>
+  <h3>Apasionado por la programación, IA, ciberseguridad y fútbol ⚽💻</h3>
 
+  <p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
-# 👾 Bienvenido al Humilde User de Santxx-svg
+  <p>
+    🚀 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
+    ⚡ Mis intereses: Inteligencia Artificial, DevOps, Ciberseguridad y Automatizaciones.
+  </p>
 
-Hola, soy **Santiago Alvarez** 🌌 | Developer Python & Linux ⚡  
-Me gusta combinar **tecnología, automatización y autoaprendizaje** en todos mis proyectos 💻✨
+  <h2>📂 Mis proyectos destacados</h2>
+  <ul>
+    <li><b>Web Scraper:</b> Automatización de extracción de datos de sitios web con Python.</li>
+    <li><b>Bot de Discord:</b> Bot para gestionar servidores y crear mini juegos.</li>
+    <li><b>Portfolio Web:</b> Página personal mostrando mis proyectos y habilidades.</li>
+    <li><b>Scripts de Linux:</b> Automatización de tareas y administración de sistemas.</li>
+  </ul>
 
-![Cyberpunk Banner](https://drive.google.com/file/d/1qDy8rRxK6wemo_otfQXIxeQBbiyrpmZ-/view?usp=drive_link)
-
----
-
-## 🛠 Skills & Tecnologías
-
-![Python](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python&logoColor=blue) 
-![Linux](https://img.shields.io/badge/Linux-Futuristic-green?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-SSH-black?style=for-the-badge&logo=github&logoColor=white)
-
-- **Automatización & Web Scraping:** BeautifulSoup, CSV, Requests 🕸  
-- **DevOps & Git:** Git, GitHub, Linux 🖥  
-- **Inteligencia Artificial:** IA básica 🤖  
-
----
-
-## 📂 Proyectos destacados
-
-- **[Amazon Scraper](https://github.com/santxx-svg/amazon_scraper)** 🛒  
-  Script Python que hace scraping de productos de Amazon y exporta datos a CSV.  
-
-- **Próximamente:** scripts de automatización, proyectos IA y mas!! 🚀  
-
----
+  <h2>💡 Habilidades</h2>
+  <p>
+    Python | Linux | Git/GitHub | HTML/CSS | Bash Scripting | Automatización | Web Scraping | APIs
+  </p>
 
 ## 🌐 Contactame
 
@@ -39,15 +38,3 @@ Me gusta combinar **tecnología, automatización y autoaprendizaje** en todos mi
 <a href="https://www.instagram.com/santxx.svg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
----
-
-## 📊 GitHub Stats
-
-![Santxx-svg GitHub Stats](https://github-readme-stats.vercel.app/api?username=santxx-svg&show_icons=true&theme=dark)
-
----
-
-## 🌌 Motto
-
-> "Transformando café ☕ en código 🐍 y sueños futuristas 🌃"

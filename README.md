@@ -1,12 +1,11 @@
 <div align="center">
 
   <h1>Hola, soy Santiago Alvarez 👋</h1>
-  <h3>Apasionado por la programación, IA, ciberseguridad y fútbol ⚽💻</h3>
+  <h3>Apasionado por la programación, IA y ciberseguridad ⚽💻</h3>
 
   <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,7 +24,6 @@
     Python: 90%<br>
     Linux: 85%<br>
     Git/GitHub: 80%<br>
-    HTML/CSS: 75%<br>
     Bash Scripting: 70%<br>
     Web Scraping: 80%<br>
     APIs: 75%
@@ -42,8 +40,6 @@
     🚀 Inteligencia Artificial<br>
     🛠️ DevOps y Automatización<br>
     🔒 Ciberseguridad<br>
-    ⚽ Fútbol y Deportes<br>
-    🎮 Juegos y Estrategias
   </p>
 
   <h2>🌟 Sobre mí</h2>
@@ -55,9 +51,18 @@
 
   <h2>📫 Cómo contactarme</h2>
   <p>
-    <a href="mailto:santiago@email.com">✉️ Email</a> | 
-    <a href="https://www.linkedin.com/in/santiago-alvarez/">🔗 LinkedIn</a> | 
-    <a href="https://github.com/tu-usuario">🐱 GitHub</a>
+<a href="https://www.linkedin.com/in/santxx-svg" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" 
+       alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/santxx.svg/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" 
+       alt="instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:santxx.svg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" 
+       alt="gmail" style="margin-bottom: 5px;" />
+</a>
   </p>
 
   <p>

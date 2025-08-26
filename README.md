@@ -1,9 +1,9 @@
-# 👾 Bienvenido al Futuristic Hub de Santxx-svg
+# 👾 Bienvenido al Humilde User de Santxx-svg
 
-Hola, soy **Santiago Alvarez** 🌌 | Futuristic Python Hacker ⚡  
+Hola, soy **Santiago Alvarez** 🌌 | Developer Python & Linux ⚡  
 Me gusta combinar **tecnología, automatización y autoaprendizaje** en todos mis proyectos 💻✨
 
-![Cyberpunk Banner](https://media.giphy.com/media/3o7aCV1QmvDLqUq3OE/giphy.gif)
+![Cyberpunk Banner](https://drive.google.com/file/d/1qDy8rRxK6wemo_otfQXIxeQBbiyrpmZ-/view?usp=drive_link)
 
 ---
 

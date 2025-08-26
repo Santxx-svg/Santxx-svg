@@ -6,7 +6,6 @@
   <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -14,7 +13,7 @@
 
   <p>
     🚀 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
-    ⚡ Mis intereses: Inteligencia Artificial, DevOps, Ciberseguridad y Automatizaciones.
+    ⚡ Mis intereses a futuro: Inteligencia Artificial, DevOps, Ciberseguridad y Automatizaciones.
   </p>
 
   <h2>📂 Mis proyectos destacados</h2>
@@ -27,7 +26,7 @@
 
   <h2>💡 Habilidades</h2>
   <p>
-    Python | Linux | Git/GitHub | HTML/CSS | Bash Scripting | Automatización | Web Scraping | APIs
+    Python | Linux | Git/GitHub | CSS | Bash Scripting | Automatización | Web Scraping | APIs
   </p>
 
 ## 🌐 Contactame

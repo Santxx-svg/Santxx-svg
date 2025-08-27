@@ -10,29 +10,25 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
-
+  
   <h2>📂 Proyectos Destacados</h2>
   <ul>
-    <li><b><a href="https://github.com/tu-usuario/web-scraper">Web Scraper</a></b>: Automatización de extracción de datos con Python.</li>
+    <li><b><a href="https://github.com/Santxx-svg/web-scraper">Web Scraper</a></b>: Automatización de extracción de datos con Python.</li>
     <li><b><a href="https://github.com/tu-usuario/discord-bot">Bot de Discord</a></b>: Bot para gestionar servidores y juegos.</li>
-    <li><b><a href="https://github.com/tu-usuario/portfolio">Portfolio Web</a></b>: Página personal mostrando mis proyectos y habilidades.</li>
-    <li><b><a href="https://github.com/tu-usuario/linux-scripts">Scripts de Linux</a></b>: Automatización de tareas y administración de sistemas.</li>
+    <li><b><a href="https://github.com/Santxx-svg/portfolio">Portfolio Web</a></b>: Página personal mostrando mis proyectos y habilidades.</li>
   </ul>
 
   <h2>💻 Skills & Tecnologías</h2>
   <p>
-    Python: 90%<br>
-    Linux: 85%<br>
-    Git/GitHub: 80%<br>
-    Bash Scripting: 70%<br>
-    Web Scraping: 80%<br>
-    APIs: 75%
+![Python](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python&logoColor=blue) 
+![Linux](https://img.shields.io/badge/Linux-Futuristic-green?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-SSH-black?style=for-the-badge&logo=github&logoColor=white)
   </p>
 
   <h2>📊 Estadísticas de GitHub</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Santxx-svg&show_icons=true&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santxx-svg&layout=compact&theme=dark&hide_border=true" />
   </p>
 
   <h2>🎯 Mis intereses</h2>

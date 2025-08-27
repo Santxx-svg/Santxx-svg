@@ -21,7 +21,7 @@
   <h2>💻 Skills & Tecnologías</h2>
   <p>
     <img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python&logoColor=blue /> 
-    <img src="https://img.shields.io/badge/Linux-Futuristic-green?style=for-the-badge&logo=linux&logoColor=white />
+    <img src="https://img.shields.io/badge/Linux-green?style=for-the-badge&logo=linux&logoColor=white />
     <img src="https://img.shields.io/badge/GitHub-SSH-black?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
